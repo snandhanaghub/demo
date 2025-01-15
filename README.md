@@ -1,3 +1,4 @@
 # demo
-first git repo
+My first git repo.
+<br>
 Author ~ nandhappan
